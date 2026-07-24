@@ -12,7 +12,7 @@ O IROMANutri ajuda usuários a evoluírem através de:
 
 Baixe a versão Android mais recente:
 
-[⬇️ Baixar IROMANutri APK](COLOQUE_O_LINK_DA_RELEASE_AQUI)
+[⬇️ Baixar IROMANutri APK](https://github.com/iromanutri/IROMANutri/releases/download/v1.0/app-release.apk)
 
 ## 📌 Versão atual
 
